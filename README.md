@@ -7,7 +7,7 @@ shopby Enterprise 기반 인쇄 사이트 정책 자문 플러그인입니다.
 ## 설치
 
 ```bash
-/plugin install github:innojini/shopby-policy-plugin
+/plugin install github:skeeper75/shopby-policy-plugin
 ```
 
 ## 사용법
