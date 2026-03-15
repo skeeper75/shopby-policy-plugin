@@ -1,0 +1,22 @@
+{
+  "name": "shopby-policy-plugin",
+  "description": "shopby Enterprise 기반 인쇄 사이트 정책 자문 플러그인. 13개 정책 도메인 자문, IA 기능 분류(NATIVE/SKIN/CUSTOM/EXTERNAL), 한국 인쇄업계 벤치마크 제공.",
+  "version": "1.0.0",
+  "author": {
+    "name": "innojini"
+  },
+  "homepage": "https://github.com/innojini/shopby-policy-plugin",
+  "repository": "https://github.com/innojini/shopby-policy-plugin.git",
+  "license": "MIT",
+  "keywords": [
+    "shopby",
+    "printing",
+    "policy",
+    "ecommerce",
+    "korean-printing",
+    "policy-advisor"
+  ],
+  "commands": ["./commands/"],
+  "agents": ["./agents/"],
+  "skills": ["./skills/"]
+}
