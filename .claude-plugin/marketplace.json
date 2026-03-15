@@ -1,12 +1,22 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "shopby-policy-plugin",
   "description": "shopby Enterprise 기반 인쇄 사이트 정책 자문 플러그인 마켓플레이스",
+  "owner": {
+    "name": "innojini",
+    "email": "skeeper75@gmail.com"
+  },
   "plugins": [
     {
       "name": "shopby-policy-plugin",
       "description": "shopby Enterprise 기반 인쇄 사이트 정책 자문 플러그인. 13개 정책 도메인 자문, IA 기능 분류(NATIVE/SKIN/CUSTOM/EXTERNAL), 한국 인쇄업계 벤치마크 제공.",
       "version": "1.0.0",
-      "path": "./"
+      "author": {
+        "name": "innojini",
+        "email": "skeeper75@gmail.com"
+      },
+      "source": "./",
+      "category": "domain"
     }
   ]
 }
